@@ -1,0 +1,13 @@
+{
+  "name": "bot-keuangan-telegram",
+  "version": "1.0.0",
+  "description": "Bot Keuangan Telegram via Vercel + Google Sheets",
+  "main": "api/webhook.js",
+  "dependencies": {
+    "google-spreadsheet": "^4.1.2",
+    "google-auth-library": "^9.6.3"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
